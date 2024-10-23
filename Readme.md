@@ -14,7 +14,7 @@ The client requested a dashboard with insights on:
 ## Dataset
 The dataset includes UK road accident data (3.07 million rows, 21 fields) for 2021 and 2022, stored in a single table.
 
-## Output:
+## Preview:
 ![road](https://github.com/user-attachments/assets/4537b0a0-2820-4903-b047-b5d2d7eff3dc)
 
 ## Key Insights from Road Accident Dashboard (2021-2022)
