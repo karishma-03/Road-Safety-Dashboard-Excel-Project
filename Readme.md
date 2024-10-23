@@ -14,14 +14,12 @@ The client requested a dashboard with insights on:
 ## Dataset
 The dataset includes UK road accident data (3.07 million rows, 21 fields) for 2021 and 2022, stored in a single table.
 
+## Output:
+![road](https://github.com/user-attachments/assets/4537b0a0-2820-4903-b047-b5d2d7eff3dc)
+
 ## Key Insights from Road Accident Dashboard (2021-2022)
 - Total casualties in 2021 and 2022 amount to 417,882.
-- Fatal casualties account for 7,135 (1.7% of total).
-- Serious casualties total 59,312 (14.2% of total).
-- Slight casualties are the majority, with 351,435 (84.1% of total).
 - Most casualties involved cars, with 333,485 (79.8% of total).
-- Single carriageways had the highest casualties (309.7K), followed by dual carriageways (67.4K).
-- Casualties on dry roads were 279,445, while wet roads saw 115,261 casualties.
 - Rural areas experienced 255.9K casualties, compared to 162.0K in urban areas.
-- Daylight conditions resulted in 305.0K casualties, while dark conditions saw 112.9K casualties.
 - Monthly comparison shows higher casualties in 2021 than in 20
+
